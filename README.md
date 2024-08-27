@@ -12,13 +12,6 @@ The **Fitness Tracking App** is a gym tracking application designed to help user
 - **User Interface**: Modern and intuitive UI using Jetpack Compose.
 - **Data Persistence**: Local data storage using Room Database with TypeConverters for complex data types.
 
-## Screenshots
-
-![Main Screen](![Screenshot_20240827-234443](https://github.com/user-attachments/assets/e017d164-c47f-43bb-9ea7-c554100e3f09)
-)
-![Exercise Screen](![Screenshot_20240827-234408](https://github.com/user-attachments/assets/366e23a1-4d90-4a19-ba5f-ba9a3ea0af8b)
-)
-
 ## Technologies Used
 
 - **Kotlin**: Programming language for Android development.
